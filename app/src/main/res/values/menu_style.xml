@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="menu_style">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:background">#FFFFFF</item>
+        <item name="android:layout_marginBottom">7dp</item>
+    </style>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/addUser"
+        android:icon="@drawable/ic_person_add_black_24px"
+        android:title="Add User" />
+    <item
+        android:id="@+id/viewData"
+        android:icon="@drawable/ic_pageview_black_24px"
+        android:title="View Data" />
+    <item
+        android:id="@+id/userAccounts"
+        android:icon="@drawable/ic_supervisor_account_black_24px"
+        android:title="User Accounts" />
+    <item
+        android:id="@+id/logOut"
+        android:icon="@drawable/ic_exit_to_app_black_24px"
+        android:title="Logout" />
+</menu>

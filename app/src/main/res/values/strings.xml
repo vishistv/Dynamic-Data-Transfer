@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dynamic Data Transfer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_admin">AdminActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="view_data_instruction">Choose a date from the calender to retrieve your data</string>
+    <string name="name">Username</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_create_user">CreateUserActivity</string>
+    <string name="title_activity_user_accounts">userAccountsActivity</string>
+    <string name="title_activity_view_data">ViewDataActivity</string>
+    <string name="title_activity_view_data_second">ViewDataSecondActivity</string>
+    <string name="title_activity_normal_user_profile">NormalUserProfileActivity</string>
+</resources>
